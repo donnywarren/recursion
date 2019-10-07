@@ -71,7 +71,7 @@ function sumRange(num) {
    return count;
 }
 ```
-What is happening under the hood when we call the recursive sumRange ? 
+What is actually happening when we call the recursive sumRange ? 
 
 ```
 sumRange(3) 
