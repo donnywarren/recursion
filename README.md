@@ -126,7 +126,7 @@ function getTheOdds(input) {
   } else {
     return `You array doesn't have any odd numbers, ${count} of them.Sorry`
   }
-  return array;
+  
 }
 
 getTheOdds([143,457,675,899,324]) // ==> Your array of [143,457,675,899,324] containes 4 odd numbers - 143,457,675,899
