@@ -114,7 +114,7 @@ function getTheOdds(input) {
 	  } else {
 	    if (helperInput[0] % 2 !== 0) {
 	    	array.push(helperInput[0])
-        count++
+        	count++
 	    }
 	  }
 	  helper(helperInput.slice(1))
