@@ -152,7 +152,7 @@ Some languages do optimize **tail recursion** which essentially makes a recursiv
 
 ```js
 function fizzBuzz(n, i=1) {
-
+	//Write a function takes a number n as a paramter and, for each number from 1 to n, prints "fizz" if the number is divisible by 3, "buzz" if the number is divisible by 5, and "fizzBuzz" if the number is divisible by both 3 and 5.
 }
 
 function reverseString() {
