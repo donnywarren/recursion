@@ -149,3 +149,16 @@ In most cases, recursive functions are less efficient than iterative ones becaus
 Some languages do optimize **tail recursion** which essentially makes a recursive function into a while loop during interpreting or compiling.
 
 ## Exercises
+
+function fizzBuzz(n, i=1) {
+
+}
+
+function reverseString() {
+	// This function takes a string and reverses it recursively.
+}
+
+function findMax() {
+	// This function returns the largest number in a given array.
+}
+
