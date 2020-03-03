@@ -150,6 +150,7 @@ Some languages do optimize **tail recursion** which essentially makes a recursiv
 
 ## Exercises
 
+```
 function fizzBuzz(n, i=1) {
 
 }
@@ -161,4 +162,5 @@ function reverseString() {
 function findMax() {
 	// This function returns the largest number in a given array.
 }
+```
 
