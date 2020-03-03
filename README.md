@@ -150,7 +150,7 @@ Some languages do optimize **tail recursion** which essentially makes a recursiv
 
 ## Exercises
 
-```
+```js
 function fizzBuzz(n, i=1) {
 
 }
